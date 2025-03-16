@@ -25,7 +25,8 @@
 ## Install Jetstream With Livewire 
 > php artisan jetstream:install livewire
 
-
+## Running Migrations
+> php artisan migrate
 
 
 
