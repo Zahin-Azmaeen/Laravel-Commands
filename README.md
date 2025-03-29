@@ -28,8 +28,8 @@
 ## Running Migrations
 > php artisan migrate
 
-
-
+## hardevine/shoppingcart
+> composer require hardevine/shoppingcart
 
 
 
