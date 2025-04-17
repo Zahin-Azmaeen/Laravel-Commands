@@ -31,8 +31,8 @@
 ## hardevine/shoppingcart
 > composer require hardevine/shoppingcart
 
-
-
+## barryvdh/laravel-dompdf
+> composer require barryvdh/laravel-dompdf
 
 
 
